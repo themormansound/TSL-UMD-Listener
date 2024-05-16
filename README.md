@@ -1,5 +1,9 @@
 # TSL-UMD-Listener
-Opens port 40001 (configurable) to listen for TSL UMD 3.1 messages. Displays tallys for ID 1-8 in a gui. Made in python and tkinter
+
+A simple python script to test incoming TSL UMD 3.1 udp messages.
+
+
+Opens port 40001 (configurable) to listen for TSL UMD 3.1 messages. Displays tallys for ID 1-8 in a sexy gui. Made in python and tkinter
 
 Libraries nneded:
 
